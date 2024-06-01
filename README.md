@@ -1,0 +1,1 @@
+Social-Site application: To set up this project create virtual environment using this commend : python -m venv env activate the virtual environment using this command: env/bin/activate cd project_folder git clone https://github.com/Sadaf244/social_site_app.git , git checkout main git pull origin main To install all package run this command: pip freeze > requirements.txt
